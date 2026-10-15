@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
+body{
+    background-color:rgb(26, 129, 133) ;
+    
+}h1{ background-color:rgb(22, 58, 92) ;
+     color:black;
+    font-size: 60px;
+    text-align:center;
+    font-family: "Creepster", system-ui;
+}
+h2{
+    color: black;
+    font-size: 25px;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+}
+img{
+    width: 250px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    
+}
+p{
+    color:burlywood;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+li::marker {
+    color: burlywood;
+}
+li {
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(39, 36, 36)
+}
